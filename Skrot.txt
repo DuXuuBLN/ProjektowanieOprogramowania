@@ -1,8 +1,24 @@
-Repozytorium Git:
-	REPOZYTORIUM LOKALNE I ZDALNE	
+	Repozytorium Git:
 
-Techniki Zwinne:
-	OPISAĆ METODE SCRUM, MANIFEST AGILE
+1. Co to jest repozytorium, ich rodzaje i roznice
 
-Wzorce Projektowe:
-	PODZIAŁ STRUKTURALNE I BEHAWIORALNE I PO PRZYKŁADZIE (STRATEGIA, FABRYKA, FASADA)	
+2. Jak sie tworzy i dziala na repozytorium
+
+3. Komendy
+
+
+	Techniki Zwinne:
+
+1. Metoda SCRUM
+
+2. Manifest Agile
+
+
+
+	Wzorce Projektowe:
+	
+1. Podział na Strukturalne oraz Behawioralne 
+
+2. Różnice między nimi
+
+3. Przykłady: STRATEGIA, FABRYKA, FASADA	
