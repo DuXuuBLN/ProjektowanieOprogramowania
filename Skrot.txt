@@ -4,9 +4,6 @@
 
 2. Jak sie tworzy i dziala na repozytorium
 
-3. Komendy
-
-
 	Techniki Zwinne:
 
 1. Metoda SCRUM

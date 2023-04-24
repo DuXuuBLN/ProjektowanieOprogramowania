@@ -123,10 +123,16 @@ h3, h4, h5{
     color: #9c9a9a;       
 }
 
-#c4, #c5, #c6{
+#c4, #c5{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: #aaaaaa;       
     font-size: 20px;
+}
+
+#c6{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #aaaaaa;
+    font-size: 14px;  
 }
 
 /* <Footer> */
