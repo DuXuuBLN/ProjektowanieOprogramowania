@@ -1,9 +1,3 @@
-	Repozytorium Git:
-
-1. Co to jest repozytorium, ich rodzaje i roznice
-
-2. Jak sie tworzy i dziala na repozytorium
-
 	Techniki Zwinne:
 
 1. Metoda SCRUM
