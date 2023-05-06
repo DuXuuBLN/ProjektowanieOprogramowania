@@ -172,6 +172,11 @@ footer p{
     #row{
         min-height: 930px;
     }
+    #WzorceIMG{
+        width: 450px;
+        height: 300px;
+        border: 5px solid black;
+    }
 }
 
 @media only screen and (max-width: 1000px)
@@ -196,6 +201,16 @@ footer p{
     }
     header{
         height: auto;
+    }
+    #WzorceIMG{
+        width: 450px;
+        height: 300px;
+        border: 5px solid black;
+    }
+    #c4, #c5, #c6{
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: #aaaaaa;       
+        font-size: 17px;
     }
 }
 

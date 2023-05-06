@@ -1,12 +1,4 @@
-	Techniki Zwinne:
-
-1. Metoda SCRUM
-
-2. Manifest Agile
-
-
-
-	Wzorce Projektowe:
+Wzorce Projektowe:
 	
 1. Podział na Strukturalne oraz Behawioralne 
 
