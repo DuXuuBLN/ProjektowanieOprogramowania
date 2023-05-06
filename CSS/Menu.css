@@ -153,7 +153,7 @@ footer p{
 
 /* @media */
 
-@media only screen and (max-width: 1000px)
+@media only screen and (max-width: 1700px)
 {
     #col1, #col2
     {
@@ -174,7 +174,7 @@ footer p{
     }
 }
 
-@media only screen and (max-width: 600px)
+@media only screen and (max-width: 1000px)
 {
     #col1, #col2, #col3
     {

@@ -123,11 +123,18 @@ h3, h4, h5{
     color: #9c9a9a;       
 }
 
-#c4, #c5, #c6{
+#c5, #c6{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: #aaaaaa;       
     font-size: 20px;
 }
+
+#c4{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #aaaaaa;       
+    font-size: 17px;
+}
+
 
 /* <Footer> */
 
@@ -150,10 +157,14 @@ footer p{
     width: 150px;
     float: right;
 }
-
+#AgileIMG{
+    width: 550px;
+    height: 300px;
+    border: 5px solid black;
+}
 /* @media */
 
-@media only screen and (max-width: 1000px)
+@media only screen and (max-width: 1700px)
 {
     #col1, #col2
     {
@@ -172,9 +183,25 @@ footer p{
     #row{
         min-height: 930px;
     }
+    #c5, #c6{
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: #aaaaaa;       
+        font-size: 17px;
+    }
+    
+    #c4{
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: #aaaaaa;       
+        font-size: 14px;
+    }
+    #AgileIMG{
+        width: 650px;
+        height: 250px;
+        border: 5px solid black;
+    }
 }
 
-@media only screen and (max-width: 600px)
+@media only screen and (max-width: 1000px)
 {
     #col1, #col2, #col3
     {
@@ -197,10 +224,23 @@ footer p{
     header{
         height: auto;
     }
+    #c5, #c6{
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: #aaaaaa;       
+        font-size: 15px;
+    }
+    
+    #c4{
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: #aaaaaa;       
+        font-size: 13px;
+    }
+    #AgileIMG{
+        width: 650px;
+        height: 280px;
+        border: 5px solid black;
+    }
 }
 
 /* Inne */
 
-#return{
-    position: relative;
-}
